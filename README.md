@@ -1,4 +1,4 @@
-#Coding Assignment: Data Bias
+Coding Assignment: Data Bias
 
 Aim of Assignment
 - I aim to determine whether there is bias within data models and will be using Perspective API to score the toxicity level of each comment/sentence.
